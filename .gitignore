@@ -53,3 +53,8 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Tracker build outputs
+tracker
+tracker_test
+test_log.csv
