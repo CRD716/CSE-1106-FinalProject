@@ -1,0 +1,5 @@
+1. I primarily worked on the code and electrical design of the circuit
+2. We ran into an issue early on that was hard to diagnose, which we eventually determined was caused by the wrong OS version running on the raspberry pi.
+3. We utilized a test version of the GPIO library to simulate our code when we didn't have access to physical components to test with, speeding up development.
+4. I'm a transfer so didn't take the exact class, but the general C programming concepts and debugging skills from my classes helped a lot.
+5. I would add more status lights (green, yellow, red), to indicate if a room is empty, partially filled, or full.
