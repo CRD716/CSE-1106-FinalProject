@@ -1,0 +1,5 @@
+1. Provided aid with hardware configuration and documentation.
+2. Hardware was the most challenging, considering there are fewer readily available tools for a physical task; wiring posed a larger challenge than the overall code.
+3. We utilized a simulated GPIO environment to debug without the use of physical components.
+4. Personally, the most useful skills for me were the overall knowledge provided on various topics that gave me overall confidence.
+5. I would integrate a more aesthetic display of status and potentially an application that could allow students to view occupancy.
