@@ -30,7 +30,7 @@
 
 int occupancy = 0;
 int maxCapacity = 5;
-volitile sig_atomic_t running = 1;
+volatile sig_atomic_t running = 1;
 const char *logFileName = "data/entrylog.csv";
 
 /* Called when the user presses Ctrl+C */
